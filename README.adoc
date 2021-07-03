@@ -25,7 +25,7 @@ Wir erwarten von Ihnen, dass Sie ...
 
 == Ziele der Übung
 
-Das Lernziel der Aufgabe ist es, testgetriebene Entwicklung praktisch einzuüben.  
+Das Lernziel der Aufgabe ist es, testgestütztes Refactoring praktisch einzuüben.  
 
 == Ablauf der Übung
 
